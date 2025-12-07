@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Sample screen for output
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-12-07 at 19 56 23" src="https://github.com/user-attachments/assets/1d923c23-96ce-4b0e-a5e9-cfdd5e3de916" />
+<img width="320" alt="Simulator Screenshot - iPhone 16 - 2025-12-07 at 19 56 23" src="https://github.com/user-attachments/assets/1d923c23-96ce-4b0e-a5e9-cfdd5e3de916" />
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-12-07 at 19 56 25" src="https://github.com/user-attachments/assets/daaa88be-1132-4f3b-9e8e-f950307977ac" />
+<img width="320" alt="Simulator Screenshot - iPhone 16 - 2025-12-07 at 19 56 25" src="https://github.com/user-attachments/assets/daaa88be-1132-4f3b-9e8e-f950307977ac" />
 
