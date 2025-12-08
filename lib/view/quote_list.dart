@@ -47,6 +47,7 @@ class _QuoteListState extends State<QuoteList> {
             return Center(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
+                
                 children: [
                   Text('Error: ${snapshot.error}'),
                   const SizedBox(height: 16),
